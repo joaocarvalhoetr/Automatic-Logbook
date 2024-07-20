@@ -45,5 +45,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [OpenFlights](https://openflights.org/data.html)
 
 ---
-
-Feel free to customize this README as per your specific needs and details.
