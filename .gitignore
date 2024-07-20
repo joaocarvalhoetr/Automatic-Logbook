@@ -1,0 +1,19 @@
+# Ignore virtual environments
+venv/
+
+# Ignore build artifacts
+build/
+dist/
+output/
+__pycache__/
+
+
+ryanair_db_scrapper.py
+# Ignore JSON files
+*.json
+
+# Ignore .env files
+.env
+
+#Ignore XLSX files
+_internal/logbook_template.xlsx
